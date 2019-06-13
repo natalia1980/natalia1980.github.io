@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1560453790224">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1560455281913">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="429720206" ref="index"/>
@@ -117,20 +117,20 @@
     <file name="u25873_2x.png" crc="4043935497" ref="phone>index"/>
     <file name="u25873-r.png" crc="447069077" ref="phone>index"/>
     <file name="u25873-r_2x.png" crc="278043308" ref="phone>index"/>
-    <file name="u25946.png" crc="3895868138" ref="phone>index"/>
-    <file name="u25946_2x.png" crc="140532904" ref="phone>index"/>
-    <file name="u25946-r.png" crc="491960626" ref="phone>index"/>
-    <file name="u25946-r_2x.png" crc="3830413134" ref="phone>index"/>
-    <file name="u25948.png" crc="4034806357" ref="phone>index"/>
-    <file name="u25948_2x.png" crc="129583563" ref="phone>index"/>
-    <file name="u25948-r.png" crc="4027260024" ref="phone>index"/>
-    <file name="u25948-r_2x.png" crc="93025187" ref="phone>index"/>
-    <file name="u25948-m.png" crc="3976269443" ref="phone>index"/>
-    <file name="u25948-m_2x.png" crc="4159628213" ref="phone>index"/>
-    <file name="u25950.png" crc="409082180" ref="phone>index"/>
-    <file name="u25950_2x.png" crc="172611011" ref="phone>index"/>
-    <file name="u25950-r.png" crc="477860890" ref="phone>index"/>
-    <file name="u25950-r_2x.png" crc="376799914" ref="phone>index"/>
+    <file name="u25946.png" crc="4214149984" ref="phone>index"/>
+    <file name="u25946_2x.png" crc="258671600" ref="phone>index"/>
+    <file name="u25946-r.png" crc="4095656255" ref="phone>index"/>
+    <file name="u25946-r_2x.png" crc="4233380836" ref="phone>index"/>
+    <file name="u25948.png" crc="523288292" ref="phone>index"/>
+    <file name="u25948_2x.png" crc="246054128" ref="phone>index"/>
+    <file name="u25948-r.png" crc="3880989198" ref="phone>index"/>
+    <file name="u25948-r_2x.png" crc="4092319058" ref="phone>index"/>
+    <file name="u25948-m.png" crc="37792128" ref="phone>index"/>
+    <file name="u25948-m_2x.png" crc="270955966" ref="phone>index"/>
+    <file name="u25950.png" crc="3852709072" ref="phone>index"/>
+    <file name="u25950_2x.png" crc="101559636" ref="phone>index"/>
+    <file name="u25950-r.png" crc="4114169372" ref="phone>index"/>
+    <file name="u25950-r_2x.png" crc="4008378169" ref="phone>index"/>
     <file name="2111062337089526_d238292x221.jpg" crc="4021462818" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -263,10 +263,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="363876830" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4154789833" ref="phone>index"/>
+      <file name="index.css" crc="325452482" ref="phone>index"/>
+      <file name="nomq_index.css" crc="153204102" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="291255444" seo="true" mt="1560454369979" redirect="true"/>
+    <file name="index.html" crc="3963760948" seo="true" mt="1560455251550" redirect="true"/>
   </folder>
   <file name="index.html" crc="47388165" seo="true" mt="1560484087989" redirect="true"/>
 </manifest>
