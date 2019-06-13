@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1560456264195">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1560456943803">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3802175568" ref="index"/>
@@ -20,7 +20,7 @@
     <file name="require.js" crc="7928878" ref="phone>index:index"/>
   </folder>
   <folder name="images">
-    <file name="landing-favicon.ico" crc="3826413213" ref="phone>index"/>
+    <file name="stroyspector-favicon.ico" crc="3826413213" ref="phone>index"/>
     <file name="2111062337089526_d238303x214.jpg" crc="4252297753" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -267,10 +267,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="158321413" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4024333152" ref="phone>index"/>
+      <file name="index.css" crc="3979761690" ref="phone>index"/>
+      <file name="nomq_index.css" crc="396280412" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4112278296" seo="true" mt="1560456215245" redirect="true"/>
+    <file name="index.html" crc="4277466539" seo="true" mt="1560456882765" redirect="true"/>
   </folder>
-  <file name="index.html" crc="528740637" seo="true" mt="1560455869603" redirect="true"/>
+  <file name="index.html" crc="4177378188" seo="true" mt="1560456874094" redirect="true"/>
 </manifest>
