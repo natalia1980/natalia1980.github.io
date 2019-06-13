@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://spektor.cf" resolutions="1x,2x" timestamp="1560457412489">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://spektor.cf" resolutions="1x,2x" timestamp="1560458361659">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4054525676" ref="index"/>
+    <file name="index.css" crc="3782453124" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
@@ -26,10 +26,13 @@
     <file name="прочная-опора-для-вашего-проекта-2_2x.jpg" crc="348046669" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="загрузка 05.gif" crc="297939482" seo="true" ref="index">
+    <file name="q5v4-wgmnki.jpg" crc="4051747752" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="q5v4-wgmnki.jpg" crc="4051747752" seo="true" ref="index">
+    <file name="inreweretrg.jpg" crc="4166816939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="y_6079e4e3-crop-u216.jpg" crc="432840410" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="profile-termopan-veka_14107351_1486991144.jpg" crc="373893658" seo="true" ref="index">
@@ -44,22 +47,19 @@
     <file name="prowin_france_quadri_2x.jpg" crc="4029162625" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="inreweretrg.jpg" crc="4166816939" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="y_6079e4e3-crop-u216.jpg" crc="432840410" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="шарик.gif" crc="235075892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="шарик_2x.gif" crc="235075892" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="kymieysl3w4724x543.jpg" crc="196597968" seo="true" ref="index">
+    <file name="виджет для погоды оформление 1.png" crc="4181908532" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="виджет для погоды оформление 1.png" crc="4181908532" seo="true" ref="index">
+    <file name="загрузка 05.gif" crc="297939482" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kymieysl3w4724x543.jpg" crc="196597968" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="zooey.gif" crc="4088203162" seo="true" ref="index">
@@ -153,5 +153,5 @@
     </folder>
     <file name="index.html" crc="4042782169" seo="true" redirect="true"/>
   </folder>
-  <file name="index.html" crc="135927791" seo="true" mt="1560457379792" redirect="true"/>
+  <file name="index.html" crc="3918441086" seo="true" mt="1560458348614" redirect="true"/>
 </manifest>
