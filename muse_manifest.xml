@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://spektor.cf" resolutions="1x,2x" timestamp="1560470254448">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://spektor.cf" resolutions="1x,2x" timestamp="1560468988263">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4091175920" ref="index"/>
+    <file name="index.css" crc="69108448" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
@@ -71,10 +71,10 @@
     <file name="загрузка 19.gif" crc="3768971339" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u1013.png" crc="4147075457" ref="index"/>
-    <file name="u1013_2x.png" crc="176276132" ref="index"/>
-    <file name="u1013-r.png" crc="487125187" ref="index"/>
-    <file name="u1013-r_2x.png" crc="4278242838" ref="index"/>
+    <file name="u1013.png" crc="4097497317" ref="index"/>
+    <file name="u1013_2x.png" crc="355514630" ref="index"/>
+    <file name="u1013-r.png" crc="4087486135" ref="index"/>
+    <file name="u1013-r_2x.png" crc="4154693478" ref="index"/>
     <file name="треуг.png" crc="3891715505" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -141,5 +141,5 @@
     </folder>
     <file name="index.html" crc="4042782169" seo="true" mt="1560465398477" redirect="true"/>
   </folder>
-  <file name="index.html" crc="535245774" seo="true" mt="1560465555941" redirect="true"/>
+  <file name="index.html" crc="317429044" seo="true" mt="1560468958258" redirect="true"/>
 </manifest>
