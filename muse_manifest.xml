@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://spektor.cf" resolutions="1x,2x" timestamp="1560465286006">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://spektor.cf" resolutions="1x,2x" timestamp="1560466650484">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="507821199" ref="index"/>
+    <file name="index.css" crc="4291503407" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
@@ -171,5 +171,5 @@
     </folder>
     <file name="index.html" crc="4042782169" seo="true" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3820402875" seo="true" mt="1560465235600" redirect="true"/>
+  <file name="index.html" crc="3944826268" seo="true" mt="1560466623757" redirect="true"/>
 </manifest>
