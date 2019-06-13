@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://spektor.cf" resolutions="1x,2x" timestamp="1560454244019">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://spektor.cf" resolutions="1x,2x" timestamp="1560457128739">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="109692669" ref="index"/>
+    <file name="index.css" crc="68512718" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
@@ -20,16 +20,28 @@
   </folder>
   <folder name="images">
     <file name="landing-favicon.ico" crc="3826413213" ref="index"/>
-    <file name="прочная опора для вашего проекта .jpg" crc="4061191514" seo="true" ref="index">
+    <file name="прочная-опора-для-вашего-проекта-2.jpg" crc="3990282290" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="прочная опора для вашего проекта _2x.jpg" crc="47134721" seo="true" ref="index">
+    <file name="прочная-опора-для-вашего-проекта-2_2x.jpg" crc="348046669" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="загрузка 05.gif" crc="297939482" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="q5v4-wgmnki.jpg" crc="4051747752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="profile-termopan-veka_14107351_1486991144.jpg" crc="373893658" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="profile-termopan-veka_14107351_1486991144_2x.jpg" crc="4109005751" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prowin_france_quadri.jpg" crc="217814521" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prowin_france_quadri_2x.jpg" crc="4029162625" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="inreweretrg.jpg" crc="4166816939" seo="true" ref="index">
@@ -141,5 +153,5 @@
     </folder>
     <file name="index.html" crc="4042782169" seo="true" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4102806982" seo="true" mt="1560454220342" redirect="true"/>
+  <file name="index.html" crc="211561054" seo="true" mt="1560457084713" redirect="true"/>
 </manifest>
