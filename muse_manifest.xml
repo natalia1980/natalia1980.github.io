@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1560455281913">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenie.ml" resolutions="1x,2x" timestamp="1560455941796">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="429720206" ref="index"/>
+    <file name="index.css" crc="3802175568" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
@@ -113,10 +113,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u25873.png" crc="3942641461" ref="phone>index"/>
-    <file name="u25873_2x.png" crc="4043935497" ref="phone>index"/>
-    <file name="u25873-r.png" crc="447069077" ref="phone>index"/>
-    <file name="u25873-r_2x.png" crc="278043308" ref="phone>index"/>
+    <file name="кружок серенький _2x.gif" crc="4119807781" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u27443.png" crc="3976514857" ref="phone>index"/>
+    <file name="u27443_2x.png" crc="51145537" ref="phone>index"/>
+    <file name="u27443-r.png" crc="187357327" ref="phone>index"/>
+    <file name="u27443-r_2x.png" crc="4039920508" ref="phone>index"/>
     <file name="u25946.png" crc="4214149984" ref="phone>index"/>
     <file name="u25946_2x.png" crc="258671600" ref="phone>index"/>
     <file name="u25946-r.png" crc="4095656255" ref="phone>index"/>
@@ -196,10 +200,10 @@
     <file name="ассирииц-2284x201_2x.jpg" crc="3808706752" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u258732.png" crc="4097497317" ref="phone>index"/>
-    <file name="u25873_2x2.png" crc="355514630" ref="phone>index"/>
-    <file name="u25873-r2.png" crc="287196280" ref="phone>index"/>
-    <file name="u25873-r_2x2.png" crc="147091898" ref="phone>index"/>
+    <file name="u274432.png" crc="3976514857" ref="phone>index"/>
+    <file name="u27443_2x2.png" crc="51145537" ref="phone>index"/>
+    <file name="u27443-r2.png" crc="187357327" ref="phone>index"/>
+    <file name="u27443-r_2x2.png" crc="4039920508" ref="phone>index"/>
     <file name="2111062337089526_d238493x371.jpg" crc="4156155820" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -242,10 +246,10 @@
     <file name="ассирииц-2.jpg" crc="226621855" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u25412.png" crc="4097497317" ref="index"/>
-    <file name="u25412_2x.png" crc="355514630" ref="index"/>
-    <file name="u25412-r.png" crc="287196280" ref="index"/>
-    <file name="u25412-r_2x.png" crc="147091898" ref="index"/>
+    <file name="u25412.png" crc="4147075457" ref="index"/>
+    <file name="u25412_2x.png" crc="176276132" ref="index"/>
+    <file name="u25412-r.png" crc="4137640475" ref="index"/>
+    <file name="u25412-r_2x.png" crc="4019252755" ref="index"/>
     <file name="u25471.png" crc="3895868138" ref="index"/>
     <file name="u25471_2x.png" crc="140532904" ref="index"/>
     <file name="u25471-r.png" crc="491960626" ref="index"/>
@@ -263,10 +267,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="325452482" ref="phone>index"/>
-      <file name="nomq_index.css" crc="153204102" ref="phone>index"/>
+      <file name="index.css" crc="4289745242" ref="phone>index"/>
+      <file name="nomq_index.css" crc="355406506" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3963760948" seo="true" mt="1560455251550" redirect="true"/>
+    <file name="index.html" crc="233250931" seo="true" mt="1560455919500" redirect="true"/>
   </folder>
-  <file name="index.html" crc="47388165" seo="true" mt="1560484087989" redirect="true"/>
+  <file name="index.html" crc="528740637" seo="true" mt="1560455869603" redirect="true"/>
 </manifest>
