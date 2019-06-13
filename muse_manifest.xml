@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://spektor.cf" resolutions="1x,2x" timestamp="1560457191420">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://spektor.cf" resolutions="1x,2x" timestamp="1560464417221">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4248780223" ref="index"/>
+    <file name="index.css" crc="139435210" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
@@ -53,9 +53,6 @@
     <file name="y_6079e4e3-crop-u216.jpg" crc="3927397839" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="виджет для погоды оформление 1.png" crc="4181908532" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="varianty-ofrmleniya-balkona-v-razlichnyh-stilyah-7621x414.jpg" crc="276176430" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -101,5 +98,5 @@
     <file name="u348-r.png" crc="477860890" ref="index"/>
     <file name="u348-r_2x.png" crc="376799914" ref="index"/>
   </folder>
-  <file name="index.html" crc="4082495901" seo="true" mt="1560457169384" redirect="true"/>
+  <file name="index.html" crc="360987486" seo="true" mt="1560464355826" redirect="true"/>
 </manifest>
