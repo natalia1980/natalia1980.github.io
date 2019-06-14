@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://spektor.cf" resolutions="1x,2x" timestamp="1560454088567">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://spektor.cf" resolutions="1x,2x" timestamp="1560468201475">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="164163927" ref="index"/>
+    <file name="index.css" crc="321414705" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
@@ -20,10 +20,10 @@
   </folder>
   <folder name="images">
     <file name="landing-favicon.ico" crc="3826413213" ref="index"/>
-    <file name="2111062337089526_d238495x371.jpg" crc="174658903" seo="true" ref="index">
+    <file name="2111062337089526_d238493x371.jpg" crc="4156155820" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2111062337089526_d238495x371_2x.jpg" crc="73561292" seo="true" ref="index">
+    <file name="2111062337089526_d238493x371_2x.jpg" crc="73561292" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="profile-termopan-veka_14107351_1486991144.jpg" crc="373893658" seo="true" ref="index">
@@ -50,29 +50,35 @@
     <file name="inreweretrg_2x.jpg" crc="4223700425" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="y_6079e4e3-crop-u216.jpg" crc="3927397839" seo="true" ref="index">
+    <file name="iqbgsbzol8q512x398.jpg" crc="12962790" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iqbgsbzol8q512x398_2x.jpg" crc="269993400" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="varianty-ofrmleniya-balkona-v-razlichnyh-stilyah-7621x414.jpg" crc="276176430" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="2111062337089526_d238.jpg" crc="73561292" seo="true" ref="index">
+    <file name="2111062337089526_d238.jpg" crc="480417026" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="iqbgsbzol8q.jpg" crc="289502421" seo="true" ref="index">
+    <file name="iqbgsbzol8q.jpg" crc="73852903" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rem2.jpg" crc="217192350" seo="true" ref="index">
+    <file name="iqbgsbzol8q_2x.jpg" crc="386618874" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="varianty-ofrmleniya-balkona-v-razlichnyh-stilyah-7.jpg" crc="424152679" seo="true" ref="index">
+    <file name="varianty-ofrmleniya-balkona-v-razlichnyh-stilyah-7.jpg" crc="4010944540" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rem2.jpg" crc="91098366" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="x_66c89582.jpg" crc="403473144" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="x_b1466d32.jpg" crc="3936040148" seo="true" ref="index">
+    <file name="ассирииц-2.jpg" crc="226621855" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
@@ -98,5 +104,5 @@
     <file name="u348-r.png" crc="477860890" ref="index"/>
     <file name="u348-r_2x.png" crc="376799914" ref="index"/>
   </folder>
-  <file name="index.html" crc="312191938" seo="true" mt="1560454057680" redirect="true"/>
+  <file name="index.html" crc="3814922142" seo="true" mt="1560467934939" redirect="true"/>
 </manifest>
