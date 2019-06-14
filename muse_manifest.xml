@@ -1,0 +1,145 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://spektor.cf" resolutions="1x,2x" timestamp="1560470254448">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4091175920" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="landing-favicon.ico" crc="3826413213" ref="index"/>
+    <file name="прочная опора для вашего проекта .jpg" crc="4061191514" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="прочная опора для вашего проекта _2x.jpg" crc="47134721" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="загрузка 05.gif" crc="297939482" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="q5v4-wgmnki.jpg" crc="4051747752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inreweretrg.jpg" crc="4166816939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="y_6079e4e3-crop-u216.jpg" crc="432840410" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="шарик.gif" crc="235075892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="шарик_2x.gif" crc="235075892" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kymieysl3w4724x543.jpg" crc="196597968" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="виджет для погоды оформление 1.png" crc="4181908532" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="zooey.gif" crc="4088203162" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="x_dbd75052.jpg" crc="4233206316" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="y_e3583cb2.jpg" crc="166263830" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="галерея.png" crc="251134220" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="галерея_2x.png" crc="528065875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="загрузка 23.gif" crc="3970361127" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="загрузка 19.gif" crc="3768971339" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1013.png" crc="4147075457" ref="index"/>
+    <file name="u1013_2x.png" crc="176276132" ref="index"/>
+    <file name="u1013-r.png" crc="487125187" ref="index"/>
+    <file name="u1013-r_2x.png" crc="4278242838" ref="index"/>
+    <file name="треуг.png" crc="3891715505" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="треуг_2x.png" crc="368385355" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="треуг74x75.png" crc="346198643" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="треуг74x75_2x.png" crc="368385355" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="x_080483d6.jpg" crc="443932090" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="y_6079e4e3716x536.jpg" crc="4037282404" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sanuzel(2).jpg" crc="4238887767" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="ph1_big.jpg" crc="172180763" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="су-галерея.png" crc="456477519" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="z_bf676e7c.jpg" crc="168320733" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="лесница 1200px.jpg" crc="401620443" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="z_f4c4006e.jpg" crc="4118239727" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kymieysl3w4.jpg" crc="22895116" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u346.png" crc="3895868138" ref="index"/>
+    <file name="u346_2x.png" crc="140532904" ref="index"/>
+    <file name="u346-r.png" crc="491960626" ref="index"/>
+    <file name="u346-r_2x.png" crc="3830413134" ref="index"/>
+    <file name="u340.png" crc="3912808265" ref="index"/>
+    <file name="u340_2x.png" crc="329624868" ref="index"/>
+    <file name="u340-r.png" crc="4093944308" ref="index"/>
+    <file name="u340-r_2x.png" crc="506485613" ref="index"/>
+    <file name="u342.png" crc="4034806357" ref="index"/>
+    <file name="u342_2x.png" crc="129583563" ref="index"/>
+    <file name="u342-r.png" crc="4027260024" ref="index"/>
+    <file name="u342-r_2x.png" crc="93025187" ref="index"/>
+    <file name="u342-m.png" crc="3976269443" ref="index"/>
+    <file name="u342-m_2x.png" crc="4159628213" ref="index"/>
+    <file name="u348.png" crc="409082180" ref="index"/>
+    <file name="u348_2x.png" crc="172611011" ref="index"/>
+    <file name="u348-r.png" crc="477860890" ref="index"/>
+    <file name="u348-r_2x.png" crc="376799914" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4020426100" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4042782169" seo="true" mt="1560465398477" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="535245774" seo="true" mt="1560465555941" redirect="true"/>
+</manifest>
