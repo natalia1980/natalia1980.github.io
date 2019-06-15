@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SPEKTOR.CF" resolutions="1x,2x" timestamp="1560592953563">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SPEKTOR.CF" resolutions="1x,2x" timestamp="1560594457351">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="68646348" ref="index"/>
@@ -117,10 +117,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u27443.png" crc="417485524" ref="phone>index"/>
-    <file name="u27443_2x.png" crc="4064060948" ref="phone>index"/>
-    <file name="u27443-r.png" crc="4266711342" ref="phone>index"/>
-    <file name="u27443-r_2x.png" crc="317413764" ref="phone>index"/>
+    <file name="u27443.png" crc="50462182" ref="phone>index"/>
+    <file name="u27443_2x.png" crc="4029493921" ref="phone>index"/>
+    <file name="u27443-r.png" crc="4044780827" ref="phone>index"/>
+    <file name="u27443-r_2x.png" crc="3794010704" ref="phone>index"/>
     <file name="u25946.png" crc="84272928" ref="phone>index"/>
     <file name="u25946_2x.png" crc="3936309910" ref="phone>index"/>
     <file name="u25946-r.png" crc="4200142264" ref="phone>index"/>
@@ -267,10 +267,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4269056806" ref="phone>index"/>
-      <file name="nomq_index.css" crc="3940337289" ref="phone>index"/>
+      <file name="index.css" crc="138581184" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4095990232" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="64528523" seo="true" mt="1560592929923" redirect="true"/>
+    <file name="index.html" crc="532016059" seo="true" mt="1560594438760" redirect="true"/>
   </folder>
   <file name="index.html" crc="4192832227" seo="true" mt="1560592941778" redirect="true"/>
 </manifest>
