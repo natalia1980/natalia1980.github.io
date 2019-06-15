@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SPEKTOR.CF" resolutions="1x,2x" timestamp="1560586723034">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SPEKTOR.CF" resolutions="1x,2x" timestamp="1560592707507">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="68646348" ref="index"/>
@@ -20,7 +20,7 @@
     <file name="require.js" crc="7928878" ref="phone>index:index"/>
   </folder>
   <folder name="images">
-    <file name="стройспектор-favicon.ico" crc="3826413213" ref="phone>index"/>
+    <file name="стройспектр.ремонт-квартир.-отделка-квартир-favicon.ico" crc="3826413213" ref="phone>index"/>
     <file name="2111062337089526_d238303x214.jpg" crc="4252297753" seo="true" ref="phone>index">
       <caption webpage="index" alt="РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы. "/>
     </file>
@@ -204,7 +204,6 @@
     <file name="u27443_2x2.png" crc="3789300847" ref="phone>index"/>
     <file name="u27443-r2.png" crc="187357327" ref="phone>index"/>
     <file name="u27443-r_2x2.png" crc="4032579214" ref="phone>index"/>
-    <file name="стройспектр-favicon.ico" crc="3826413213" ref="index"/>
     <file name="2111062337089526_d238493x371.jpg" crc="4156155820" seo="true" ref="index">
       <caption webpage="index" alt="Ремонт квартир. РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы."/>
     </file>
@@ -271,7 +270,7 @@
       <file name="index.css" crc="4269056806" ref="phone>index"/>
       <file name="nomq_index.css" crc="3940337289" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="23840148" seo="true" mt="1560586680497" redirect="true"/>
+    <file name="index.html" crc="3874326994" seo="true" mt="1560591184330" redirect="true"/>
   </folder>
-  <file name="index.html" crc="527137092" seo="true" mt="1560586691134" redirect="true"/>
+  <file name="index.html" crc="4037970980" seo="true" mt="1560590471581" redirect="true"/>
 </manifest>
