@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SPEKTOR.CF" resolutions="1x,2x" timestamp="1560592707507">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SPEKTOR.CF" resolutions="1x,2x" timestamp="1560592953563">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="68646348" ref="index"/>
@@ -270,7 +270,7 @@
       <file name="index.css" crc="4269056806" ref="phone>index"/>
       <file name="nomq_index.css" crc="3940337289" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3874326994" seo="true" mt="1560591184330" redirect="true"/>
+    <file name="index.html" crc="64528523" seo="true" mt="1560592929923" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4037970980" seo="true" mt="1560590471581" redirect="true"/>
+  <file name="index.html" crc="4192832227" seo="true" mt="1560592941778" redirect="true"/>
 </manifest>
