@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SPEKTOR.CF" resolutions="1x,2x" timestamp="1560594457351">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SPEKTOR.CF" resolutions="1x,2x" timestamp="1561324323033">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="68646348" ref="index"/>
+    <file name="index.css" crc="209898967" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
@@ -118,9 +118,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u27443.png" crc="50462182" ref="phone>index"/>
-    <file name="u27443_2x.png" crc="4029493921" ref="phone>index"/>
+    <file name="u27443_2x.png" crc="4211940861" ref="phone>index"/>
     <file name="u27443-r.png" crc="4044780827" ref="phone>index"/>
-    <file name="u27443-r_2x.png" crc="3794010704" ref="phone>index"/>
+    <file name="u27443-r_2x.png" crc="168477669" ref="phone>index"/>
     <file name="u25946.png" crc="84272928" ref="phone>index"/>
     <file name="u25946_2x.png" crc="3936309910" ref="phone>index"/>
     <file name="u25946-r.png" crc="4200142264" ref="phone>index"/>
@@ -201,9 +201,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u274432.png" crc="3976514857" ref="phone>index"/>
-    <file name="u27443_2x2.png" crc="3789300847" ref="phone>index"/>
+    <file name="u27443_2x2.png" crc="51145537" ref="phone>index"/>
     <file name="u27443-r2.png" crc="187357327" ref="phone>index"/>
-    <file name="u27443-r_2x2.png" crc="4032579214" ref="phone>index"/>
+    <file name="u27443-r_2x2.png" crc="4039920508" ref="phone>index"/>
     <file name="2111062337089526_d238493x371.jpg" crc="4156155820" seo="true" ref="index">
       <caption webpage="index" alt="Ремонт квартир. РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы."/>
     </file>
@@ -267,10 +267,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="138581184" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4095990232" ref="phone>index"/>
+      <file name="index.css" crc="4147854272" ref="phone>index"/>
+      <file name="nomq_index.css" crc="4144708183" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="532016059" seo="true" mt="1560594438760" redirect="true"/>
+    <file name="index.html" crc="221339613" seo="true" mt="1561324274683" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4192832227" seo="true" mt="1560592941778" redirect="true"/>
+  <file name="index.html" crc="4184113619" seo="true" mt="1561324241469" redirect="true"/>
 </manifest>
