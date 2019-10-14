@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SPEKTOR.CF" resolutions="1x,2x" timestamp="1561324323033">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="SPEKTOR.CF" resolutions="1x,2x" timestamp="1571016511957">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="209898967" ref="index"/>
+    <file name="index.css" crc="4189957815" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="a1-(8).ico" crc="4108306412" seo="true" mt="1498007557000"/>
@@ -21,54 +21,6 @@
   </folder>
   <folder name="images">
     <file name="стройспектр.ремонт-квартир.-отделка-квартир-favicon.ico" crc="3826413213" ref="phone>index"/>
-    <file name="2111062337089526_d238303x214.jpg" crc="4252297753" seo="true" ref="phone>index">
-      <caption webpage="index" alt="РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы. "/>
-    </file>
-    <file name="2111062337089526_d238303x214_2x.jpg" crc="4145204069" seo="true" ref="phone>index">
-      <caption webpage="index" alt="РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы. "/>
-    </file>
-    <file name="prowin_france_quadri.jpg" crc="217814521" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="prowin_france_quadri_2x.jpg" crc="4029162625" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="алютех.png" crc="421617337" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="алютех_2x.png" crc="490466893" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="profile-termopan-veka_14107351_1486991144.jpg" crc="373893658" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="profile-termopan-veka_14107351_1486991144_2x.jpg" crc="4109005751" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="inreweretrg302x213.jpg" crc="3877916677" seo="true" ref="phone>index">
-      <caption webpage="index" alt="РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы."/>
-    </file>
-    <file name="inreweretrg302x213_2x.jpg" crc="4034269979" seo="true" ref="phone>index">
-      <caption webpage="index" alt="РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы."/>
-    </file>
-    <file name="iqbgsbzol8q302x213.jpg" crc="193790714" seo="true" ref="phone>index">
-      <caption webpage="index" alt="РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы."/>
-    </file>
-    <file name="iqbgsbzol8q302x213_2x.jpg" crc="4162529115" seo="true" ref="phone>index">
-      <caption webpage="index" alt="РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы."/>
-    </file>
     <file name="varianty-ofrmleniya-balkona-v-razlichnyh-stilyah-7306x204.jpg" crc="3806734280" seo="true" ref="phone>index">
       <caption webpage="index" alt="Ремонт квартир. РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы."/>
       <caption webpage="index" alt=""/>
@@ -116,6 +68,54 @@
     <file name="кружок серенький _2x.gif" crc="4119807781" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="2111062337089526_d238303x214.jpg" crc="4252297753" seo="true" ref="phone>index">
+      <caption webpage="index" alt="РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы. "/>
+    </file>
+    <file name="2111062337089526_d238303x214_2x.jpg" crc="4145204069" seo="true" ref="phone>index">
+      <caption webpage="index" alt="РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы. "/>
+    </file>
+    <file name="prowin_france_quadri.jpg" crc="217814521" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="prowin_france_quadri_2x.jpg" crc="4029162625" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="алютех.png" crc="421617337" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="алютех_2x.png" crc="490466893" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="profile-termopan-veka_14107351_1486991144.jpg" crc="373893658" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="profile-termopan-veka_14107351_1486991144_2x.jpg" crc="4109005751" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inreweretrg302x213.jpg" crc="3877916677" seo="true" ref="phone>index">
+      <caption webpage="index" alt="РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы."/>
+    </file>
+    <file name="inreweretrg302x213_2x.jpg" crc="4034269979" seo="true" ref="phone>index">
+      <caption webpage="index" alt="РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы."/>
+    </file>
+    <file name="iqbgsbzol8q302x213.jpg" crc="193790714" seo="true" ref="phone>index">
+      <caption webpage="index" alt="РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы."/>
+    </file>
+    <file name="iqbgsbzol8q302x213_2x.jpg" crc="4162529115" seo="true" ref="phone>index">
+      <caption webpage="index" alt="РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы."/>
     </file>
     <file name="u27443.png" crc="50462182" ref="phone>index"/>
     <file name="u27443_2x.png" crc="4211940861" ref="phone>index"/>
@@ -267,10 +267,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="4147854272" ref="phone>index"/>
-      <file name="nomq_index.css" crc="4144708183" ref="phone>index"/>
+      <file name="index.css" crc="206403957" ref="phone>index"/>
+      <file name="nomq_index.css" crc="294105881" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="221339613" seo="true" mt="1561324274683" redirect="true"/>
+    <file name="index.html" crc="59923479" seo="true" mt="1571015686965" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4184113619" seo="true" mt="1561324241469" redirect="true"/>
+  <file name="index.html" crc="4195962256" seo="true" mt="1561324241469" redirect="true"/>
 </manifest>

@@ -1,16 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://spektor.cf/</loc>
-  <lastmod>2019-06-29T08:29:10+00:00</lastmod>
-</url>
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://SPEKTOR.CF/index.html</loc>
+    <lastmod>2019-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://SPEKTOR.CF/phone/index.html"/>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/%D0%BA%D1%80%D1%83%D0%B6%D0%BE%D0%BA%20%D1%81%D0%B5%D1%80%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B9%20.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/prowin_france_quadri.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/prowin_france_quadri_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/%D0%B0%D0%BB%D1%8E%D1%82%D0%B5%D1%85.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/%D0%B0%D0%BB%D1%8E%D1%82%D0%B5%D1%85_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/profile-termopan-veka_14107351_1486991144.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/profile-termopan-veka_14107351_1486991144_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/2111062337089526_d238493x371.jpg</image:loc>
+      <image:caption>Ремонт квартир. РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/2111062337089526_d238493x371_2x.jpg</image:loc>
+      <image:caption>Ремонт квартир. РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/inreweretrg.jpg</image:loc>
+      <image:caption>Ремонт квартир. РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/inreweretrg_2x.jpg</image:loc>
+      <image:caption>Ремонт квартир. РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/iqbgsbzol8q512x398.jpg</image:loc>
+      <image:caption>Ремонт квартир. РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/iqbgsbzol8q512x398_2x.jpg</image:loc>
+      <image:caption>Ремонт квартир. РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/varianty-ofrmleniya-balkona-v-razlichnyh-stilyah-7621x414.jpg</image:loc>
+      <image:caption>Ремонт квартир. РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/2111062337089526_d238.jpg</image:loc>
+      <image:caption>Ремонт квартир. РЕМОНТ КВАРТИР В ЧЕЛЯБИНСКЕ. Электромонтаж. Сантехнические работы.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/iqbgsbzol8q.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/iqbgsbzol8q_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/varianty-ofrmleniya-balkona-v-razlichnyh-stilyah-7.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/rem2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/x_66c89582.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://SPEKTOR.CF/images/%D0%B0%D1%81%D1%81%D0%B8%D1%80%D0%B8%D0%B8%D1%86-2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://SPEKTOR.CF/assets/a1-(8).ico</loc>
+    <lastmod>2017-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>
